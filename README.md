@@ -53,7 +53,7 @@
 | 证书 | 奖项 | 时间 · 级别 |
 | --- | --- | --- |
 | <img src="./certificates/2025-01-08-chuanzhi-cup-programming-second.png" width="330"> | 2024 年“传智杯”程序设计挑战赛 B 组 二等奖 | 2025-01-08 · 校级 |
-| <img src="./certificates/2025-02-27-nowcoder-winter-algorithm-camp-third.jpg" width="330"> | 2025 牛客寒假算法集训营（第八届）三等奖 | 2025-02-27 · 国家级 |
+| <img src="./certificates/2025-02-27-nowcoder-winter-algorithm-camp-third.jpg" width="330"> | 2025 牛客寒假算法集训营（第八届）三等奖 | 2025-02-27|
 | <img src="./certificates/2025-06-30-qingma-training-completion.png" width="330"> | 湖南省大学生青年马克思主义者骨干网络培训班 · 结业证书 | 2025-06-30 · 省部级 |
 | <img src="./certificates/2025-09-10-acm-programming-school-first.jpg" width="330"> | 第八届计算机程序设计竞赛暨第二十一届湖南省大学生程序设计大赛选拔赛（ACM）**一等奖** | 2025-09-10 · 校级 |
 | <img src="./certificates/2025-11-03-iot-innovation-creative-provincial-third.jpg" width="330"> | 第九届湖南省大学生物联网应用创新设计竞赛（创意赛）三等奖<br>作品《智联感知 · 预诊先锋——医探“智心仪”》 | 2025-11-03 · 省部级 · 集体 |
